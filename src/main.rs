@@ -1,4 +1,4 @@
-use std::{time::Duration};
+use std::time::Duration;
 
 #[derive(Clone)]
 struct ChessBoard<const N: usize> {
